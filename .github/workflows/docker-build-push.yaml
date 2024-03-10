@@ -30,4 +30,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: Sadashiva84/flask:latest
+          tags: sadashiva84/flask:latest
