@@ -6,7 +6,7 @@ on:
       - "Dockerfile"
       - "app.py"
       - "test_app.py"
-      - ".github/workflows/docker-build-push.yml"
+      - ".github/workflows/main.yml"
 
 jobs:
   build:
